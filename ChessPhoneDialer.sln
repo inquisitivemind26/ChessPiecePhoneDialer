@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1705.2
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChessPhoneDialer", "ChessPhoneDialer.csproj", "{0141115A-F1AC-4174-86FA-7C8AEC40B512}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0141115A-F1AC-4174-86FA-7C8AEC40B512}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0141115A-F1AC-4174-86FA-7C8AEC40B512}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0141115A-F1AC-4174-86FA-7C8AEC40B512}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0141115A-F1AC-4174-86FA-7C8AEC40B512}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A1FF7E8-BAAD-4E86-B80C-28A18B9AD109}
+	EndGlobalSection
+EndGlobal
